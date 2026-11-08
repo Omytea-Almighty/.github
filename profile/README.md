@@ -16,5 +16,6 @@ The product code is private. What is public here:
 | [omytea-protocol](https://github.com/Omytea-Almighty/omytea-protocol) | Receipt schema, scoring code and a verifier for machine predictions |
 | [omytea-personal-console](https://github.com/Omytea-Almighty/omytea-personal-console) | An early prediction test tool, separate from the product |
 | [omytea-quantum-substrate](https://github.com/Omytea-Almighty/omytea-quantum-substrate) | A research library of quantum-information building blocks |
+| [omytea-research](https://github.com/Omytea-Almighty/omytea-research) | Code, tests, English pre-registrations and the report behind our preprint |
 
 Founder: [Jiaxuan Chen](https://github.com/Adonyth) · contact@omyteaai.com
